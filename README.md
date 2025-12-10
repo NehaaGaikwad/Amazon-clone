@@ -1,3 +1,8 @@
+![Image](https://github.com/user-attachments/assets/25805f4b-459e-4f5a-8cc2-713e60e60367)
+
+
+
+
 This project is an Amazon homepage clone that I built using only HTML and CSS. I mainly wanted to practice layout design and understand how real websites structure their sections. The page includes the complete Amazon-style navbar with a search bar, location, account menu, and cart icon. I also added a hero banner and a shop section that displays different product categories using a clean grid layout.
 
 I tried to keep the UI simple, neat, and visually close to Amazon by adding hover effects, proper spacing, and Font Awesome icons. All images are stored inside an images folder, and the entire layout stays organized and easy to edit. The page works by simply opening the index.html file in any browser.
