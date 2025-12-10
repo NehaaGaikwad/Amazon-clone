@@ -1,4 +1,4 @@
-![Demo](Resources/images/T_1.gif)
+![Demo](Resources/images/demo.gif)
 
 
 
